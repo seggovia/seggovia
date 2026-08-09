@@ -1,0 +1,22 @@
+<svg viewBox="0 0 400 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Distribución de géneros musicales: Dream Pop/Shoegaze 35%, Rock 24%, Metal 41%">
+  <title>Distribución de géneros musicales</title>
+  <g transform="translate(120,130)">
+    <circle r="90" fill="none" stroke="#21262d" stroke-width="32"/>
+    <circle r="90" fill="none" stroke="#7f77dd" stroke-width="32"
+      stroke-dasharray="197.9 367.3" stroke-dashoffset="0" transform="rotate(-90)"/>
+    <circle r="90" fill="none" stroke="#1d9e75" stroke-width="32"
+      stroke-dasharray="135.6 429.6" stroke-dashoffset="-197.9" transform="rotate(-90)"/>
+    <circle r="90" fill="none" stroke="#d85a30" stroke-width="32"
+      stroke-dasharray="231.9 333.3" stroke-dashoffset="-333.5" transform="rotate(-90)"/>
+    <text x="0" y="6" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#e6edf3">17</text>
+    <text x="0" y="24" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#8b949e">artistas</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="13" fill="#c9d1d9">
+    <rect x="250" y="70" width="11" height="11" rx="2" fill="#7f77dd"/>
+    <text x="268" y="80">Dream Pop / Shoegaze — 35%</text>
+    <rect x="250" y="98" width="11" height="11" rx="2" fill="#1d9e75"/>
+    <text x="268" y="108">Rock — 24%</text>
+    <rect x="250" y="126" width="11" height="11" rx="2" fill="#d85a30"/>
+    <text x="268" y="136">Metal — 41%</text>
+  </g>
+</svg>
