@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: seggovia
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?color_snake=E6F1FB&color_dots=042C53,185FA5,378ADD,85B7EB,E6F1FB
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v3
