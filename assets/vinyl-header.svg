@@ -1,0 +1,41 @@
+<svg viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cristian Segovia - dev en formación, Ing. Informática, Chile">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#12233a"/>
+    </linearGradient>
+    <radialGradient id="label" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#85B7EB"/>
+      <stop offset="100%" stop-color="#378ADD"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="900" height="220" rx="12" fill="url(#bg)"/>
+
+  <g transform="translate(120,110)">
+    <circle r="80" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <circle r="70" fill="none" stroke="#242b36" stroke-width="1"/>
+    <circle r="58" fill="none" stroke="#242b36" stroke-width="1"/>
+    <circle r="46" fill="none" stroke="#242b36" stroke-width="1"/>
+    <circle r="34" fill="none" stroke="#242b36" stroke-width="1"/>
+    <circle r="24" fill="url(#label)"/>
+    <circle r="3.5" fill="#0d1117"/>
+    <circle cx="-28" cy="-46" r="3" fill="#f0f0f0" opacity="0.5"/>
+  </g>
+
+  <text x="240" y="105" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="600" fill="#f0f0f0">Cristian Segovia</text>
+  <text x="240" y="135" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#85B7EB">dev en formación  |  Ing. Informática  |  Chile</text>
+
+  <g transform="translate(240,155)" opacity="0.9">
+    <rect x="0" y="10" width="3" height="10" fill="#0C447C"/>
+    <rect x="6" y="4" width="3" height="16" fill="#378ADD"/>
+    <rect x="12" y="0" width="3" height="20" fill="#85B7EB"/>
+    <rect x="18" y="6" width="3" height="14" fill="#378ADD"/>
+    <rect x="24" y="2" width="3" height="18" fill="#6C8EBF"/>
+    <rect x="30" y="9" width="3" height="11" fill="#0C447C"/>
+    <rect x="36" y="3" width="3" height="17" fill="#85B7EB"/>
+    <rect x="42" y="7" width="3" height="13" fill="#378ADD"/>
+    <rect x="48" y="1" width="3" height="19" fill="#6C8EBF"/>
+    <rect x="54" y="10" width="3" height="10" fill="#0C447C"/>
+  </g>
+</svg>
