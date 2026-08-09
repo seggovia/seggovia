@@ -1,5 +1,4 @@
 name: generate animation
-
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -7,20 +6,18 @@ on:
   push:
     branches:
       - main
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: Platane/snk@v3
         with:
           github_user_name: seggovia
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=E6F1FB&color_dots=042C53,185FA5,378ADD,85B7EB,E6F1FB
-            
+            dist/github-contribution-grid-snake.svg?color_snake=#E6F1FB&color_dots=#042C53,#185FA5,#378ADD,#85B7EB,#E6F1FB
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
