@@ -61,12 +61,14 @@ Cuando no estoy programando, seguro estoy escuchando algo — 3000+ álbumes en 
 
 <!-- Spotify Now Playing -->
 <a href="https://github.com/kittinan/spotify-github-profile">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31es2wcwlvzakj5lgdakjdqmw5um&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" width="345"/>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31es2wcwlvzakj5lgdakjdqmw5um&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" width="450"/>
 </a>
+
+<br><br>
 
 <!-- Spotify Recently Played -->
 <a href="https://open.spotify.com/user/31es2wcwlvzakj5lgdakjdqmw5um">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31es2wcwlvzakj5lgdakjdqmw5um&count=5&width=345" width="345"/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31es2wcwlvzakj5lgdakjdqmw5um&count=5&width=450" width="450"/>
 </a>
 
 </div>
