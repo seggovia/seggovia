@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=180&section=header&text=Cristian%20Segovia&fontSize=48&fontColor=1a1a2e&animation=fadeIn&fontAlignY=35&desc=dev%20en%20formaci%C3%B3n%20%7C%20Ing.%20Inform%C3%A1tica%20%7C%20Chile&descAlignY=55&descSize=16" width="100%"/>
+<img src="./assets/vinyl-header.svg" width="100%"/>
 
 </div>
 
@@ -52,7 +52,7 @@ Cuando no estoy programando, seguro estoy escuchando algo — 3000+ álbumes en 
 
 <img src="./assets/music-taste.svg" width="700"/>
 
-[![RateYourMusic](https://img.shields.io/badge/RateYourMusic-MrTulita-1a1a2e?style=for-the-badge&logo=databricks&logoColor=B39DDB)](https://rateyourmusic.com/~MrTulita)
+[![RateYourMusic](https://img.shields.io/badge/RateYourMusic-MrTulita-1a1a2e?style=for-the-badge&logo=databricks&logoColor=6C8EBF)](https://rateyourmusic.com/~MrTulita)
 [![Spotify](https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31es2wcwlvzakj5lgdakjdqmw5um)
 
 <!-- Spotify Now Playing -->
@@ -75,8 +75,8 @@ Cuando no estoy programando, seguro estoy escuchando algo — 3000+ álbumes en 
 
 <div align="center">
 
-<img src="https://github-readme-stats-six-rho-71.vercel.app/api?username=seggovia&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=B39DDB&icon_color=B39DDB&text_color=e6edf3" width="48%"/>
-<img src="https://github-readme-stats-six-rho-71.vercel.app/api/top-langs/?username=seggovia&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=B39DDB&text_color=e6edf3" width="30%"/>
+<img src="https://github-readme-stats-six-rho-71.vercel.app/api?username=seggovia&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6C8EBF&icon_color=6C8EBF&text_color=e6edf3" width="48%"/>
+<img src="https://github-readme-stats-six-rho-71.vercel.app/api/top-langs/?username=seggovia&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6C8EBF&text_color=e6edf3" width="30%"/>
 
 </div>
 
@@ -90,5 +90,5 @@ Cuando no estoy programando, seguro estoy escuchando algo — 3000+ álbumes en 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc7d4,100:9796f0&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12233a,100:6C8EBF&height=100&section=footer" width="100%"/>
 </div>
