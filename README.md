@@ -82,8 +82,8 @@ Estudiante de Ingeniería en Informática, profundizando en JavaScript y TypeScr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=seggovia&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=B39DDB&icon_color=B39DDB&text_color=e6edf3" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seggovia&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=B39DDB&text_color=e6edf3" width="30%"/>
+<img src="https://github-readme-stats-six-rho-71.vercel.app/api?username=seggovia&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=B39DDB&icon_color=B39DDB&text_color=e6edf3" width="48%"/>
+<img src="https://github-readme-stats-six-rho-71.vercel.app/api/top-langs/?username=seggovia&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=B39DDB&text_color=e6edf3" width="30%"/>
 
 </div>
 
