@@ -48,16 +48,12 @@ const cristian = {
 
 Cuando no estoy programando, seguro estoy escuchando algo — 3000+ álbumes en mi RYM y contando. Vivo en algún punto entre el shoegaze/dream pop, el rock clásico y el metal.
 
-<img src="./assets/music-taste.svg" width="700"/>
-
 <div align="center">
+
+<img src="./assets/music-taste.svg" width="700"/>
 
 [![RateYourMusic](https://img.shields.io/badge/RateYourMusic-MrTulita-1a1a2e?style=for-the-badge&logo=databricks&logoColor=B39DDB)](https://rateyourmusic.com/~MrTulita)
 [![Spotify](https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31es2wcwlvzakj5lgdakjdqmw5um)
-
-</div>
-
-<div align="center">
 
 <!-- Spotify Now Playing -->
 <a href="https://github.com/kittinan/spotify-github-profile">
