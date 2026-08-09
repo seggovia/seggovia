@@ -48,9 +48,7 @@ const cristian = {
 
 Cuando no estoy programando, seguro estoy escuchando algo — 3000+ álbumes en mi RYM y contando. Vivo en algún punto entre el shoegaze/dream pop, el rock clásico y el metal.
 
-**Dream Pop / Shoegaze:** The Sundays · Cocteau Twins · Beach House · Mazzy Star · Slowdive · Galaxie 500
-**Rock:** Led Zeppelin · The Smashing Pumpkins · Title Fight · Foo Fighters
-**Metal:** Deftones · Avenged Sevenfold · Bullet For My Valentine · Trivium · Mastodon · Killswitch Engage · Lamb of God
+<img src="./assets/music-taste.svg" width="700"/>
 
 <div align="center">
 
