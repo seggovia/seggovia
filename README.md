@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=180&section=header&text=Cristian%20Segovia&fontSize=48&fontColor=1a1a2e&animation=fadeIn&fontAlignY=35&desc=dev%20en%20formaci%C3%B3n%20%7C%20Ing.%20Inform%C3%A1tica%20%7C%20Chile&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=B39DDB&center=true&vCenter=true&width=600&lines=Construyendo+una+base+s%C3%B3lida+en+JS;3000%2B+%C3%A1lbumes+escuchados;Camino+a+pr%C3%A1ctica+profesional+2027" alt="Typing SVG" />
-
 </div>
 
 <br>
@@ -23,16 +21,15 @@ Goal   : Práctica profesional — 2027
 
 ## 🌱 Sobre mí
 
-Estudiante de Ingeniería en Informática, profundizando en JavaScript y TypeScript junto a React con [javascript.info](https://es.javascript.info) — prefiero entender bien la base que ir saltando de tecnología en tecnología. Tengo experiencia práctica construyendo proyectos con React, Node.js y bases de datos relacionales, programando y decidiendo la arquitectura yo mismo.
+Hola, soy Cristian 👋 — apasionado por la música, y la programación es a lo que más le dedico mi tiempo. Estudiante de Ingeniería en Informática en Chile, construyendo una base sólida en JavaScript y TypeScript junto a React antes de saltar a más frameworks. Tengo experiencia práctica construyendo proyectos completos, programando y decidiendo la arquitectura yo mismo.
 
-**🛠️ Ya conozco / he trabajado con**
-`HTML` `CSS` `Tailwind` `Bootstrap` `Figma` `Java` `C#` `MySQL` `PostgreSQL` `Supabase`
-
-**🌱 Profundizando ahora mismo**
-`JavaScript avanzado` — objetos, tipos de datos, camino a closures y async/await
-
-**🎯 En la ruta / por dominar**
-`TypeScript` `React` `Node.js` `Docker` `AWS / Cloud` `Spring Boot`
+```javascript
+const cristian = {
+  conoce: ["HTML", "CSS", "Tailwind", "Bootstrap", "Figma", "Java", "C#", "MySQL", "PostgreSQL", "Supabase"],
+  ruta: ["TypeScript", "React", "Node.js", "Docker", "AWS/Cloud", "Java avanzado", "Spring Boot", "Patrones de diseño"],
+  meta: "Práctica profesional — 2027"
+};
+```
 
 <br>
 
@@ -52,7 +49,7 @@ Estudiante de Ingeniería en Informática, profundizando en JavaScript y TypeScr
 
 ## 🎧 Music
 
-3000+ álbumes escuchados y contando — mi RYM es básicamente mi diario. Vivo en algún punto entre el shoegaze/dream pop, el rock clásico y el metal.
+Cuando no estoy programando, seguro estoy escuchando algo — 3000+ álbumes en mi RYM y contando. Vivo en algún punto entre el shoegaze/dream pop, el rock clásico y el metal.
 
 **Dream Pop / Shoegaze:** The Sundays · Cocteau Twins · Beach House · Mazzy Star · Slowdive · Galaxie 500
 
