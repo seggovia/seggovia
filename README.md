@@ -26,8 +26,7 @@ Hola, soy Cristian 👋 — apasionado por la música, y la programación es a l
 ```javascript
 const cristian = {
   conoce: ["HTML", "CSS", "Tailwind", "Bootstrap", "Figma", "Java", "C#", "MySQL", "PostgreSQL", "Supabase"],
-  ruta: ["TypeScript", "React", "Node.js", "Docker", "AWS/Cloud", "Java avanzado", "Spring Boot", "Patrones de diseño"],
-  meta: "Práctica profesional — 2027"
+  ruta: ["TypeScript", "React", "Node.js", "Docker", "AWS/Cloud", "Java avanzado", "Spring Boot", "Patrones de diseño"]
 };
 ```
 
