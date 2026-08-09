@@ -14,8 +14,6 @@ Kernel       : Aprendo construyendo, no solo leyendo teoría
 
 Languages.Programming : JavaScript (en profundidad), TypeScript, Java
 Languages.Real         : Español (nativo)
-
-Focus  : Base sólida en JS y TS junto a React
 ```
 
 ## 🌱 Sobre mí
@@ -26,7 +24,7 @@ Hola, soy Cristian 👋 — apasionado por la música, y la programación es a l
 const cristian = {
   conoce: ["JavaScript", "HTML", "CSS", "Tailwind", "Bootstrap", "Figma", "Java", "C#", "MySQL", "PostgreSQL", "Supabase"],
   aplicado_en_proyectos: ["React", "TypeScript", "Node.js", "Docker"],
-  ruta: ["AWS/Cloud", "Java avanzado", "Spring Boot"]
+  ruta: ["AWS/Cloud", "Java avanzado", "Spring Boot", "Kubernetes", "CI/CD", "Linux"]
 };
 ```
 
@@ -50,9 +48,11 @@ const cristian = {
 
 Cuando no estoy programando, seguro estoy escuchando algo — 3000+ álbumes en mi RYM y contando. Vivo en algún punto entre el shoegaze/dream pop, el rock clásico y el metal.
 
-- **Dream Pop / Shoegaze:** The Sundays, Cocteau Twins, Beach House, Mazzy Star, Slowdive, Galaxie 500
-- **Rock:** Led Zeppelin, The Smashing Pumpkins, Title Fight, Foo Fighters
-- **Metal:** Deftones, Avenged Sevenfold, Bullet For My Valentine, Trivium, Mastodon, Killswitch Engage, Lamb of God
+<img src="./assets/music-genres.svg" width="400"/>
+
+**Dream Pop / Shoegaze:** The Sundays · Cocteau Twins · Beach House · Mazzy Star · Slowdive · Galaxie 500
+**Rock:** Led Zeppelin · The Smashing Pumpkins · Title Fight · Foo Fighters
+**Metal:** Deftones · Avenged Sevenfold · Bullet For My Valentine · Trivium · Mastodon · Killswitch Engage · Lamb of God
 
 <div align="center">
 
