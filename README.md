@@ -69,8 +69,10 @@ Estudiante de Ingeniería en Informática, profundizando en JavaScript y TypeScr
 
 <div align="center">
 
-<!-- Spotify Now Playing — reemplaza USER_ID por tu uid conectado en spotify-github-profile.vercel.app -->
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=USER_ID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=B39DDB&bar_color_cover=false" width="350"/>
+<!-- Spotify Now Playing -->
+<a href="https://github.com/kittinan/spotify-github-profile">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31es2wcwlvzakj5lgdakjdqmw5um&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" width="350"/>
+</a>
 
 </div>
 
