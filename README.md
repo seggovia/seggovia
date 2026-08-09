@@ -82,8 +82,22 @@ Cuando no estoy programando, seguro estoy escuchando algo — 3000+ álbumes en 
 
 <div align="center">
 
-<!-- GitHub Contribution Snake — requiere configurar un GitHub Action, ver instrucciones abajo -->
-<img src="https://raw.githubusercontent.com/seggovia/seggovia/output/github-contribution-grid-snake.svg" width="100%"/>
+<!-- GitHub Contribution Snake — se adapta a modo claro/oscuro automáticamente -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/seggovia/seggovia/output/github-contribution-grid-snake-dark.svg?v=1"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/seggovia/seggovia/output/github-contribution-grid-snake.svg?v=1"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/seggovia/seggovia/output/github-contribution-grid-snake.svg?v=1"
+    width="100%"
+  />
+</picture>
 
 </div>
 
